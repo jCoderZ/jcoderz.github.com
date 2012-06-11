@@ -1,0 +1,121 @@
+body {
+	min-width: 610px;
+	margin: 10px;
+	color: #000;
+	background: #fff;
+	font: normal 13px verdana, arial, 'Bitstream Vera Sans', helvetica, sans-serif;
+}
+a:link, a:visited {
+	color: #553fa0;
+	background: #fff;
+	font-weight: bold;
+	text-decoration: none;
+}
+#container {
+	margin: 10px;
+}
+#stamp {
+	float: right;
+	padding: 10px;
+}
+#content {
+	height: 500px;
+	position: relative;
+}
+#content h1 {
+	text-align: center;
+	padding: 20px;
+	color: #a5b2c6;
+	background: #fff;
+}
+#project {
+	position: relative;
+	margin: auto;
+	padding: 10px;
+	width: 800px;
+        text-align: right;
+}
+#project .logo {
+	float: left;
+	padding: 10px;
+}
+#project .header {
+	padding: 10px;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+#contacts {
+	height: 333px;
+}
+#contacts .left {
+	position: absolute;
+	left: 10px;
+	top: 100px;
+	margin: 0px;
+	padding: 10px;
+	z-index: 10;
+}
+#contacts .right {
+	position: absolute;
+	right: 10px;
+	top: 100px;
+	margin: 0px;
+	padding: 10px;
+	z-index: 10;
+}
+#footer {
+	display: block;
+	clear: left;
+	border-top: 1px solid #eee;
+}
+#footer a {
+	color: #777;
+	background: #fff;
+}
+#footer p {
+	color: #777;
+	background: #fff;
+}
+#mail {
+	position: absolute;
+	margin: 10px auto;
+	padding: 10px;
+	width: 100%;
+	color: #777;
+	background-color: #fff;
+	text-align: center;
+}
+#jcoderzlogo {
+	background: url("images/jcoderz-logo.png") center center no-repeat;
+	height: 333px;
+	margin: 0 auto;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+.address {
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid  #ddd;
+}
+.name, .street {
+	display: block;
+}
+.name {
+	font-weight: bold;
+}
+.zipcode, .city {
+	display: inline;
+}
+
+a img {
+   border: 0px;
+}
+
