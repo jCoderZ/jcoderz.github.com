@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /cc/fawkez/artifacts/
-Disallow: /fawkez/newticket
-Disallow: /fawkez/search
-Disallow: /fawkez/browser/cctags/
-Disallow: /fawkez/log/cctags/
-Disallow: /fawkez/log/
-Disallow: /svn/fawkez/cctags/
-
